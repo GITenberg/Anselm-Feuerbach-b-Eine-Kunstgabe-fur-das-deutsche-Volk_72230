@@ -1,0 +1,34 @@
+_repo: Anselm-Feuerbach-b-Eine-Kunstgabe-fur-das-deutsche-Volk_72230
+_version: 0.0.1
+contributor:
+  artist:
+    agent_name: Feuerbach, Anselm Friedrich
+    birthdate: 1829
+    deathdate: 1880
+    gutenberg_agent_id: '56601'
+    url: http://www.gutenberg.org/2009/agents/56601
+    wikipedia: https://de.wikipedia.org/wiki/Anselm_Feuerbach
+  commentator:
+    agent_name: Friedrich, Walther
+    gutenberg_agent_id: '56602'
+    url: http://www.gutenberg.org/2009/agents/56602
+description: ''
+gutenberg_issued: '2023-11-26'
+identifiers:
+  gutenberg: '72230'
+language: de
+pgterms:marc905: 20220712074959kunstpfleg
+pgterms:marc906: '1913'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aMainz :$bVerlag von Jos. Scholz, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Painters -- Germany'
+- !lcsh 'Feuerbach, Anselm Friedrich, 1829-1880'
+- !lcc 'ND'
+- GITenberg
+title: 'Anselm Feuerbach : $b Eine Kunstgabe für das deutsche Volk'
+url: http://www.gutenberg.org/ebooks/72230
