@@ -12,7 +12,12 @@ contributor:
     agent_name: Friedrich, Walther
     gutenberg_agent_id: '56602'
     url: http://www.gutenberg.org/2009/agents/56602
+covers:
+- cover_type: archival
+  image_path: 72230-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72230#Anselm-Feuerbach-b-Eine-Kunstgabe-fur-das-deutsche-Volk
 gutenberg_issued: '2023-11-26'
 identifiers:
   gutenberg: '72230'
